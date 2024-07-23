@@ -1,2 +1,2 @@
 # communityclassrooom
-hell yea
+This is my first git repos
